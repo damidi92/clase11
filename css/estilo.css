@@ -1,0 +1,14 @@
+.intro {
+  color: blue;
+  font-family: Grandstander; }
+
+.titulo {
+  color: #ff9900;
+  font-family: Grandstander; }
+
+body {
+  background: black; }
+
+.carousel {
+  width: 2000px;
+  height: 500px; }

@@ -1,0 +1,27 @@
+$azul:blue;
+$negro:black;
+$letra:Grandstander;
+$miAlto: 2000px;
+$miAncho: 500px;
+$naranja:#ff9900;
+
+.intro{
+	color:$azul;
+	font-family:$letra;
+}
+
+.titulo{
+	color:$naranja;
+	font-family:$letra;
+}
+
+
+body{
+	background:$negro;
+}
+
+.carousel{
+width:$miAlto;
+height: $miAncho;
+	
+}
